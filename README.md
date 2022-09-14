@@ -1,8 +1,8 @@
 # firstrepo
 I will teach you all
 
-##introduction 
-
-##puspose 
+## introduction 
+salam be hamegi
+## puspose 
 
 ## how tooooo cont
